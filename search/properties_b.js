@@ -1,10 +1,4 @@
 var searchData=
 [
-  ['saltr',['Saltr',['../classsaltr_1_1utils_1_1_saltr_wrapper.html#a903e51310c148b8cf3c28581d4bd31d4',1,'saltr::utils::SaltrWrapper']]],
-  ['socialid',['SocialId',['../classsaltr_1_1_s_l_t_unity.html#a759bb0433e8f706cc38f25aea9713e4c',1,'saltr::SLTUnity']]],
-  ['states',['States',['../classsaltr_1_1game_1_1_s_l_t_asset_instance.html#a9517f78560209c83efdb55b472f93a5a',1,'saltr::game::SLTAssetInstance']]],
-  ['statuscode',['StatusCode',['../classsaltr_1_1status_1_1_s_l_t_status.html#a9a833b0bb96a0b57bc7972e571cc5c0b',1,'saltr::status::SLTStatus']]],
-  ['statusmessage',['StatusMessage',['../classsaltr_1_1status_1_1_s_l_t_status.html#a2077f24bd1fab374e3bd281b7ae44ad0',1,'saltr::status::SLTStatus']]],
-  ['systemname',['SystemName',['../classsaltr_1_1_s_l_t_basic_properties.html#a734d7bac1aca618186e0cfb8b81ceb38',1,'saltr::SLTBasicProperties']]],
-  ['systemversion',['SystemVersion',['../classsaltr_1_1_s_l_t_basic_properties.html#aeca303c362d6aa18c78b1e4c229f924e',1,'saltr::SLTBasicProperties']]]
+  ['name',['Name',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_internal_model_1_1_matrix_1_1_s_l_t_chunk.html#a95874d18b7463745208a269928d40ea7',1,'Saltr.UnitySdk.Domain.InternalModel.Matrix.SLTChunk.Name()'],['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_internal_model_1_1_matrix_1_1_s_l_t_matrix_fixed_asset_rule.html#ad9609801bc76d91fbdb09641ce2f28d8',1,'Saltr.UnitySdk.Domain.InternalModel.Matrix.SLTMatrixFixedAssetRule.Name()'],['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_model_1_1_matrix_1_1_s_l_t_generated_chunk_data.html#ad0b335e01e4526cded0a7292aa7663a1',1,'Saltr.UnitySdk.Domain.Model.Matrix.SLTGeneratedChunkData.Name()'],['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_model_1_1_s_l_t_asset.html#a2d3c43e3185357b19cf25a0b06a6cb55',1,'Saltr.UnitySdk.Domain.Model.SLTAsset.Name()']]]
 ];

@@ -1,12 +1,12 @@
 var searchData=
 [
-  ['cells',['Cells',['../classsaltr_1_1game_1_1matching_1_1_s_l_t_matching_board.html#a284590c3a1130922b58f342fed32cc3a',1,'saltr::game::matching::SLTMatchingBoard']]],
-  ['city',['City',['../classsaltr_1_1_s_l_t_basic_properties.html#a55337a83cadcd2630cfad4682125f843',1,'saltr::SLTBasicProperties']]],
-  ['code',['Code',['../classsaltr_1_1status_1_1_s_l_t_status.html#a3ab933b52413a7ba094b780ce34f862a',1,'saltr::status::SLTStatus']]],
-  ['col',['Col',['../classsaltr_1_1game_1_1matching_1_1_s_l_t_cell.html#a2b02622cb4a47c1920a2d33d675cbaaf',1,'saltr::game::matching::SLTCell']]],
-  ['cols',['Cols',['../classsaltr_1_1game_1_1matching_1_1_s_l_t_matching_board.html#a85ab13b56b329b94ca49468cd07d418e',1,'saltr::game::matching::SLTMatchingBoard']]],
-  ['connect',['Connect',['../classsaltr_1_1_s_l_t_unity.html#a0d72ec10446835b4390c2a4ab0edbfa9',1,'saltr.SLTUnity.Connect(Action successCallback, Action&lt; SLTStatus &gt; failCallback, SLTBasicProperties basicProperties, Dictionary&lt; string, object &gt; customProperties)'],['../classsaltr_1_1_s_l_t_unity.html#a30b9c94e7e6c4b0d8e2ad6225f6817a9',1,'saltr.SLTUnity.Connect(Action successCallback, Action&lt; SLTStatus &gt; failCallback, SLTBasicProperties basicProperties)'],['../classsaltr_1_1_s_l_t_unity.html#ad634f438cc909f94d9aae30f45d41e86',1,'saltr.SLTUnity.Connect(Action successCallback, Action&lt; SLTStatus &gt; failCallback)']]],
-  ['contentready',['ContentReady',['../classsaltr_1_1game_1_1_s_l_t_level.html#acc75fbd8d1114e2c2904080fed03973b',1,'saltr::game::SLTLevel']]],
-  ['contenturl',['ContentUrl',['../classsaltr_1_1game_1_1_s_l_t_level.html#a03a78ff9069cf16e59f094895f9dbf80',1,'saltr::game::SLTLevel']]],
-  ['contry',['Contry',['../classsaltr_1_1_s_l_t_basic_properties.html#a0e0a8db2541c2f820e7a7e92e41832db',1,'saltr::SLTBasicProperties']]]
+  ['basicproperties',['BasicProperties',['../class_saltr_1_1_unity_sdk_1_1_api_call_1_1_s_l_t_api_call_with_properties.html#a6064f8491471316e6ee84ce015e1db1a',1,'Saltr.UnitySdk.ApiCall.SLTApiCallWithProperties.BasicProperties()'],['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_s_l_t_request_arguments.html#ad3b865cd1f066424563c201511a2c1a6',1,'Saltr.UnitySdk.Domain.SLTRequestArguments.BasicProperties()'],['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a20d2372c7a24fbc9b36cf02a51108759',1,'Saltr.UnitySdk.SLTConstants.BasicProperties()']]],
+  ['blockedcells',['BlockedCells',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a87201d04d1a46998dcc6ffd7a4498fdd',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['boards',['Boards',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#afa95e64b57e4b0eded2296f8b48b7ded',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['bottom_5fleft',['BOTTOM_LEFT',['../namespace_saltr_1_1_unity_sdk_1_1_domain_1_1_internal_model_1_1_matrix.html#a3a381b0899f3bb2bf1adece22340f314a8d81ac82421d1b03da58fccb9174892e',1,'Saltr::UnitySdk::Domain::InternalModel::Matrix']]],
+  ['browsername',['BrowserName',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_s_l_t_basic_properties.html#a4c5f627e2e1646407a2aeff6fc74b163',1,'Saltr.UnitySdk.Domain.SLTBasicProperties.BrowserName()'],['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#ab7d68fb3b3ec5649938b28d937316a3a',1,'Saltr.UnitySdk.SLTConstants.BrowserName()']]],
+  ['browserversion',['BrowserVersion',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_s_l_t_basic_properties.html#a5cb94d1de7ccd8caa30b736845fdb085',1,'Saltr.UnitySdk.Domain.SLTBasicProperties.BrowserVersion()'],['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#aa8f68da3082cbad3c9d74a3513ef519b',1,'Saltr.UnitySdk.SLTConstants.BrowserVersion()']]],
+  ['buildconfig_2ecs',['BuildConfig.cs',['../_build_config_8cs.html',1,'']]],
+  ['buildconfiginstance_2ecs',['BuildConfigInstance.cs',['../_build_config_instance_8cs.html',1,'']]],
+  ['bytes',['Bytes',['../class_saltr_1_1_unity_sdk_1_1_network_1_1_s_l_t_download_request.html#a775815742f949846a4750db3b95c15ad',1,'Saltr.UnitySdk.Network.SLTDownloadRequest.Bytes()'],['../class_saltr_1_1_unity_sdk_1_1_network_1_1_s_l_t_download_result.html#a026d4a2ec2d69676c5239eb361e7f5e8',1,'Saltr.UnitySdk.Network.SLTDownloadResult.Bytes()'],['../namespace_saltr_1_1_unity_sdk_1_1_network.html#a2c704b820eda35fb6d98d945f889bbb1a600e754f49b68aa0fc90a9cd64eb7051',1,'Saltr.UnitySdk.Network.Bytes()']]]
 ];

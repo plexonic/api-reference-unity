@@ -1,4 +1,20 @@
 var searchData=
 [
-  ['saltr_5fgame_5fobject_5fname',['SALTR_GAME_OBJECT_NAME',['../classsaltr_1_1_s_l_t_unity.html#ae3cfc747a8b86a3141ac3f4fbbdeeb2e',1,'saltr::SLTUnity']]]
+  ['action',['action',['../struct_saltr_1_1_unity_sdk_1_1_s_l_t_async_manager_1_1_delayed_queue_item.html#ab7195cb4d78b02c976bc4d2c787916a9',1,'Saltr::UnitySdk::SLTAsyncManager::DelayedQueueItem']]],
+  ['actionaddproperties',['ActionAddProperties',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a608f5ba3af5314b3a142818e725e6118',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['actiondevregisterdevice',['ActionDevRegisterDevice',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#ac5eff9d979aa49d989fd8d28afe9fa7e',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['actiondevsync',['ActionDevSync',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#adf6bdd3efc338f40a2b058e127eff350',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['actiongetappdata',['ActionGetAppData',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#ab8a28074678ac92f1951794f17197129',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['actionheartbeat',['ActionHeartBeat',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a1d42882f9d2b861381028fbcefba6d62',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['age',['Age',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#ade0577b4f3436eb98f8f381c8b1d95dd',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['apiversion',['ApiVersion',['../class_saltr_1_1_unity_sdk_1_1_api_call_1_1_s_l_t_api_call.html#af1a11b0e0ebd837f3a1391f3efb774e1',1,'Saltr.UnitySdk.ApiCall.SLTApiCall.ApiVersion()'],['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a5b00d803ae482a818ed334ad54b432e1',1,'Saltr.UnitySdk.SLTConstants.ApiVersion()']]],
+  ['appdatacachefilename',['AppDataCacheFileName',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a2ffeeee1c0756d223146a32e2d6a1cbd',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['appdatacachepathformat',['AppDataCachePathFormat',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a27973bc4c17892b1570e342a7f1b1a72',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['appdatashouldbeinitialized',['AppDataShouldBeInitialized',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_exception_constants.html#a8653976fa232eee0e052e2d018b6c3f2',1,'Saltr::UnitySdk::SLTExceptionConstants']]],
+  ['appdatatoimportfilename',['AppDataToImportFilename',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a546a24045c101447ddcc9fc6a480b70a',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['applicationversion',['ApplicationVersion',['../class_saltr_1_1_unity_sdk_1_1_saltr_unity.html#a6db2072e6a66f77186296a7b1e14cf55',1,'Saltr::UnitySdk::SaltrUnity']]],
+  ['appversion',['AppVersion',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a4ae714dfeff4cb904b94063c14fd97ee',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['appversionshouldbeprovided',['AppVersionShouldBeProvided',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_exception_constants.html#a13afafd3bc32f69d445cd127f11b45c5',1,'Saltr::UnitySdk::SLTExceptionConstants']]],
+  ['assetid',['AssetId',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a21f00c481aceec0538450a64fde6ad8a',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['assets',['Assets',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#ac0cd1ba71679a654ddb7cefa091f8402',1,'Saltr::UnitySdk::SLTConstants']]]
 ];

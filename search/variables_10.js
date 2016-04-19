@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['readme',['README',['../_r_e_a_d_m_e_8txt.html#a4c5e46c11c50dfb2d56465f40d0897a8',1,'README.txt']]],
+  ['regexpatternfeaturetoken',['RegexPatternFeatureToken',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a8e3b184012551994b2f706d178adfa3f',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['region',['Region',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a97aa776b76ea1011d63adc72e0ab48c1',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['resourcefolderpath',['ResourceFolderPath',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a748d4715e96b765d137ce04e9614d37d',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['resourceidadddevice',['ResourceIdAddDevice',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a74d19cfd1090689006dccfa8f75ee6e7',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['resourceidproperty',['ResourceIdProperty',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#af6ee4acb8566e38d191f081ebcc68314',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['resourceidsaltr',['ResourceIdSaltr',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a3d606e6d9953cc193c7236b120bda48d',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['resourceidsaltrappconfig',['ResourceIdSaltrAppConfig',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#aad7bf553253d006803f3bbc8bc5c9454',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['resourceidsyncfeatures',['ResourceIdSyncFeatures',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a4e33b51f831175b9a53dd411028c9652',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['response',['Response',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a6ed83836152d4d604117ec8cc3199ba2',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['responsedata',['ResponseData',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#addd991e9152e8d0e3f164a48863fa88e',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['restriction',['restriction',['../_l_i_c_e_n_s_e_8txt.html#ac0e1e4a858a6a19c5392f7f6d29f969c',1,'LICENSE.txt']]],
+  ['resulterror',['ResultError',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a15f64cf6bed59643c28101b8de134a6e',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['resultsuccess',['ResultSuccess',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a20b233697af33ea4152ce3252398e5cc',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['rotation',['Rotation',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a25e93650485b6d66e2a5f45a09ce1e89',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['rows',['Rows',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a7f1573af90c112442812a583a17a7ae7',1,'Saltr::UnitySdk::SLTConstants']]]
+];

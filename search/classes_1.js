@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['getpostwrapper',['GETPOSTWrapper',['../classsaltr_1_1utils_1_1_g_e_t_p_o_s_t_wrapper.html',1,'saltr::utils']]]
+  ['isltrepository',['ISLTRepository',['../interface_saltr_1_1_unity_sdk_1_1_repository_1_1_i_s_l_t_repository.html',1,'Saltr::UnitySdk::Repository']]]
 ];

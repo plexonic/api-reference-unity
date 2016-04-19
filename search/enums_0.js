@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['code',['Code',['../classsaltr_1_1status_1_1_s_l_t_status.html#a3ab933b52413a7ba094b780ce34f862a',1,'saltr::status::SLTStatus']]]
+  ['apicallmethod',['ApiCallMethod',['../namespace_saltr_1_1_unity_sdk_1_1_api_call.html#a7b2838520c32045538150f9c937ae6b1',1,'Saltr::UnitySdk::ApiCall']]]
 ];

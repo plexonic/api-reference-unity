@@ -1,15 +1,12 @@
 var searchData=
 [
-  ['gender',['Gender',['../classsaltr_1_1_s_l_t_basic_properties.html#a3d59a7723f75c272d47e0b53733eb50a',1,'saltr::SLTBasicProperties']]],
-  ['getactivefeaturetokens',['GetActiveFeatureTokens',['../classsaltr_1_1_s_l_t_unity.html#ab80186cf64dd9d7b908f892c84773fbd',1,'saltr::SLTUnity']]],
-  ['getassetinstancebylayerid',['GetAssetInstanceByLayerId',['../classsaltr_1_1game_1_1matching_1_1_s_l_t_cell.html#a20910968473f2fafc3177d6e17742bb5',1,'saltr::game::matching::SLTCell']]],
-  ['getassetinstancebylayerindex',['GetAssetInstanceByLayerIndex',['../classsaltr_1_1game_1_1matching_1_1_s_l_t_cell.html#a7b006fabcf0063bfe7316b8332c99911',1,'saltr::game::matching::SLTCell']]],
-  ['getboard',['GetBoard',['../classsaltr_1_1game_1_1_s_l_t_level.html#a8132eb601937ccfdd5c1b035261fe4a6',1,'saltr::game::SLTLevel']]],
-  ['getfeatureproperties',['GetFeatureProperties',['../classsaltr_1_1_s_l_t_unity.html#a6f842f665672a58c56e81615511c8eb9',1,'saltr::SLTUnity']]],
-  ['getiterator',['GetIterator',['../classsaltr_1_1game_1_1matching_1_1_s_l_t_cells.html#a56a0fe39384bb1c9b680b1141c6dad8d',1,'saltr::game::matching::SLTCells']]],
-  ['getlevelbyglobalindex',['GetLevelByGlobalIndex',['../classsaltr_1_1_s_l_t_unity.html#acafb00ade03bd59ed2e6a33f83633e35',1,'saltr::SLTUnity']]],
-  ['getpackbylevelglobalindex',['GetPackByLevelGlobalIndex',['../classsaltr_1_1_s_l_t_unity.html#a4a74314253c86926df03b3b86370a8e9',1,'saltr::SLTUnity']]],
-  ['getpostwrapper',['GETPOSTWrapper',['../classsaltr_1_1utils_1_1_g_e_t_p_o_s_t_wrapper.html',1,'saltr::utils']]],
-  ['getvalue',['GetValue',['../classsaltr_1_1utils_1_1_extensions.html#a958376c277bcabe33e123e192a724b39',1,'saltr::utils::Extensions']]],
-  ['getvalue_3c_20type_20_3e',['GetValue&lt; Type &gt;',['../classsaltr_1_1utils_1_1_extensions.html#adf80f26c0359f7f05243375693ee6a14',1,'saltr::utils::Extensions']]]
+  ['email',['Email',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_s_l_t_request_arguments.html#a3d5d663c21b6e1422b2963d62a75a9e3',1,'Saltr.UnitySdk.Domain.SLTRequestArguments.Email()'],['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a1bea039d504bb7f242fdc8fea428de7e',1,'Saltr.UnitySdk.SLTConstants.Email()']]],
+  ['emailisrequired',['EmailIsRequired',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_exception_constants.html#a63a121d32ee3cc6862e8e038388258ed',1,'Saltr::UnitySdk::SLTExceptionConstants']]],
+  ['error',['Error',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_s_l_t_base_entity.html#a8f5c5487af1f351658daa1ecb89c7b28',1,'Saltr.UnitySdk.Domain.SLTBaseEntity.Error()'],['../class_saltr_1_1_unity_sdk_1_1_network_1_1_s_l_t_download_result.html#a676dc55e4679f868dd17cdf984ab8c8b',1,'Saltr.UnitySdk.Network.SLTDownloadResult.Error()'],['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#ae413410ca3c78aa5e6627a4e987aeadf',1,'Saltr.UnitySdk.SLTConstants.Error()']]],
+  ['errorcode',['ErrorCode',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a215414f85ac55f02b5f3362362132201',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['errormessage',['ErrorMessage',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#ae879239733ab728c5d233f0b3bfad5c1',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['excludedassets',['ExcludedAssets',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_internal_model_1_1_s_l_t_matching_rules.html#a9c8dc9475deb28e079d6d07d335a6531',1,'Saltr::UnitySdk::Domain::InternalModel::SLTMatchingRules']]],
+  ['execute',['Execute',['../class_saltr_1_1_unity_sdk_1_1_api_call_1_1_s_l_t_api_call.html#a496132ded66521ba93c5ea91fbbffadb',1,'Saltr.UnitySdk.ApiCall.SLTApiCall.Execute()'],['../class_saltr_1_1_unity_sdk_1_1_api_call_1_1_s_l_t_api_call_get_app_data.html#a48ef075451919a41b5798423ad7e39d6',1,'Saltr.UnitySdk.ApiCall.SLTApiCallGetAppData.Execute()'],['../class_saltr_1_1_unity_sdk_1_1_network_1_1_s_l_t_download_manager.html#aeb99064683effa7022ccf2fa5a6afb13',1,'Saltr.UnitySdk.Network.SLTDownloadManager.Execute()']]],
+  ['experiments',['Experiments',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_model_1_1_s_l_t_app_data.html#ac72606f574bfcf729e0e1ba8ea0829d2',1,'Saltr.UnitySdk.Domain.Model.SLTAppData.Experiments()'],['../class_saltr_1_1_unity_sdk_1_1_saltr_connector.html#a4ade96950fab7de840dbfee1019d9d8e',1,'Saltr.UnitySdk.SaltrConnector.Experiments()'],['../class_saltr_1_1_unity_sdk_1_1_saltr_unity.html#a1a1e5e830daa4cbfca9df88232908207',1,'Saltr.UnitySdk.SaltrUnity.Experiments()'],['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#adcccda456c444152bf8d4de71dcb6ee9',1,'Saltr.UnitySdk.SLTConstants.Experiments()']]],
+  ['experimenttype',['ExperimentType',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_s_l_t_experiment.html#a546dc936149e7d93ecd59bde38b540d1',1,'Saltr::UnitySdk::Domain::SLTExperiment']]]
 ];

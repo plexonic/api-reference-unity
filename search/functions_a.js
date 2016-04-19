@@ -1,10 +1,9 @@
 var searchData=
 [
-  ['todictionaryornull',['ToDictionaryOrNull',['../classsaltr_1_1utils_1_1_extensions.html#aa34adc636054995d8c0e3bcc5e506db0',1,'saltr::utils::Extensions']]],
-  ['todictionarystringornull',['ToDictionaryStringOrNull',['../classsaltr_1_1utils_1_1_extensions.html#ac59f0b156f296fd7a5bdcfdffeeb4e0e',1,'saltr::utils::Extensions']]],
-  ['tofloator',['ToFloatOr',['../classsaltr_1_1utils_1_1_extensions.html#acb05dce7fd081864807e4b2fe704a567',1,'saltr::utils::Extensions']]],
-  ['tofloatorzero',['ToFloatOrZero',['../classsaltr_1_1utils_1_1_extensions.html#a74410559b04f1a6e9a33e154b5577700',1,'saltr::utils::Extensions']]],
-  ['tointegeror',['ToIntegerOr',['../classsaltr_1_1utils_1_1_extensions.html#a18ec88f06f62bdff555edd5047d32272',1,'saltr::utils::Extensions']]],
-  ['tointegerorzero',['ToIntegerOrZero',['../classsaltr_1_1utils_1_1_extensions.html#aef7986c3b110ee95f64a940fc819fe59',1,'saltr::utils::Extensions']]],
-  ['tostring',['ToString',['../classsaltr_1_1game_1_1_s_l_t_level_pack.html#ac7a3d789ca13a17d5b85020cdca76080',1,'saltr::game::SLTLevelPack']]]
+  ['onaddproperties',['OnAddProperties',['../class_saltr_1_1_unity_sdk_1_1_saltr_connector.html#ad2b7e28b790471bbc4a62a2d610112a7',1,'Saltr::UnitySdk::SaltrConnector']]],
+  ['onappdatagotten',['OnAppDataGotten',['../class_saltr_1_1_unity_sdk_1_1_saltr_connector.html#ac57d575f207d47ce6adcec6a41502d52',1,'Saltr::UnitySdk::SaltrConnector']]],
+  ['ondisable',['OnDisable',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_async_manager.html#a1a11ba6db547bcccc513f1c3e83dfe09',1,'Saltr::UnitySdk::SLTAsyncManager']]],
+  ['ondownloadcomplete',['OnDownloadComplete',['../class_saltr_1_1_unity_sdk_1_1_api_call_1_1_s_l_t_api_call.html#a247a3a0771194289bb358b290a16e0f2',1,'Saltr::UnitySdk::ApiCall::SLTApiCall']]],
+  ['onheartbeat',['OnHeartBeat',['../class_saltr_1_1_unity_sdk_1_1_saltr_connector.html#a8eda0fff411712156c169c3a2dbd5163',1,'Saltr::UnitySdk::SaltrConnector']]],
+  ['onloadlevelcontentfromsaltr',['OnLoadLevelContentFromSaltr',['../class_saltr_1_1_unity_sdk_1_1_saltr_connector.html#a28ceaf5468026caa52da7523d18a4b1c',1,'Saltr.UnitySdk.SaltrConnector.OnLoadLevelContentFromSaltr()'],['../class_saltr_1_1_unity_sdk_1_1_s_l_t_levels_synchronizer.html#a4dfaaa5cf25e115cf88a6ab50ff24251',1,'Saltr.UnitySdk.SLTLevelsSynchronizer.OnLoadLevelContentFromSaltr()']]]
 ];

@@ -1,6 +1,10 @@
 var searchData=
 [
-  ['definefeature',['DefineFeature',['../classsaltr_1_1_s_l_t_unity.html#a4683619fab622a0aab6fb061b2048fdf',1,'saltr.SLTUnity.DefineFeature(string token, Dictionary&lt; string, object &gt; properties, bool required)'],['../classsaltr_1_1_s_l_t_unity.html#a753e68a726ba4edec02a65c72f08cde8',1,'saltr.SLTUnity.DefineFeature(string token, Dictionary&lt; string, object &gt; properties)']]],
-  ['definefeatures',['DefineFeatures',['../classsaltr_1_1utils_1_1_saltr_wrapper.html#a8717b6921d9e840f7ff85ce3dc3b254d',1,'saltr::utils::SaltrWrapper']]],
-  ['deserialize',['Deserialize',['../class_mini_j_s_o_n_1_1_json.html#acc0450803591edb84319322b117dfa56',1,'MiniJSON::Json']]]
+  ['definedefaultfeature',['DefineDefaultFeature',['../class_saltr_1_1_unity_sdk_1_1_saltr_connector.html#aee99c98561c1a18e0f3c3f703ce7795f',1,'Saltr::UnitySdk::SaltrConnector']]],
+  ['definedefaultfeatures',['DefineDefaultFeatures',['../class_saltr_1_1_unity_sdk_1_1_saltr_unity.html#a8290b385096f9f74971417f6ab51ecdc',1,'Saltr::UnitySdk::SaltrUnity']]],
+  ['deserialize',['Deserialize',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_internal_model_1_1_s_l_t_internal_level_content.html#a6140d0bc7fb8a215b20fa52dc6bd8208',1,'Saltr::UnitySdk::Domain::InternalModel::SLTInternalLevelContent']]],
+  ['destroy',['Destroy',['../class_saltr_1_1_unity_sdk_1_1_network_1_1_s_l_t_download_manager.html#aef9dcb5191e1165c30d0ba1bcf4df3f0',1,'Saltr::UnitySdk::Network::SLTDownloadManager']]],
+  ['dispose',['Dispose',['../class_saltr_1_1_unity_sdk_1_1_network_1_1_s_l_t_download_manager.html#adf8a3cae181b627dbeb356a2b979d6db',1,'Saltr::UnitySdk::Network::SLTDownloadManager']]],
+  ['downloadonerequest',['DownloadOneRequest',['../class_saltr_1_1_unity_sdk_1_1_network_1_1_s_l_t_download_manager.html#a11a74cd867f08c9100adba9d73def5a6',1,'Saltr::UnitySdk::Network::SLTDownloadManager']]],
+  ['downloadqueue',['DownloadQueue',['../class_saltr_1_1_unity_sdk_1_1_network_1_1_s_l_t_download_manager.html#a69928c3e4a1d904c152a2e9e70d2cac0',1,'Saltr::UnitySdk::Network::SLTDownloadManager']]]
 ];
