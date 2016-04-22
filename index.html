@@ -109,21 +109,21 @@ INTRODUCTION</h1>
 <h1><a class="anchor" id="install_sec"></a>
 USAGE</h1>
 <p>To use the SDK you need to download SDK repository and then import files to your project. <br />
- The entry point is the SLTUnity class, which you can create and initialize in code. Or you can darg and drop the SALTR prefab on your main scene and access its instance through SaltrWrapper component. <br />
+ The entry point is the SLTUnity class, which you can create and initialize in code. Or you can darg and drop the SALTR prefab on your main scene and access its instance through SaltrUnity component. <br />
  Note: All classes in the package start with "SLT" prefix.</p>
 <h1><a class="anchor" id="DIRECTORY"></a>
 STRUCTURE</h1>
 <p>The SDK has the following directory structure: <br />
- /assets - folder contains the SALTR prefab and the wrapper script <br />
- /src - root folder of the library; <br />
- saltr - main package of library; <br />
- <a class="el" href="namespacesaltr_1_1game.html">saltr.game</a> - package contains game related classes; <br />
- <a class="el" href="namespacesaltr_1_1game_1_1canvas2d.html">saltr.game.canvas2d</a> - classes related to 2D games; <br />
- <a class="el" href="namespacesaltr_1_1game_1_1matching.html">saltr.game.matching</a> - classes related to matching or board based games; <br />
- saltr.game.repository - local data repository classes (implementation widely varies through platforms); <br />
- saltr.game.status - status classes representing warnings and error statuses used within library code; <br />
- saltr.game.utils - helper or utility classes; <br />
- New packages supporting new gameplays and genres will be be added to <a class="el" href="namespacesaltr_1_1game.html">saltr.game</a> package. <br />
+ Assets/Libs/Saltr - folder contains the SALTR prefab <br />
+ <a class="el" href="namespace_saltr_1_1_unity_sdk.html">Saltr.UnitySdk</a> - main namespace of library, contains main classes <br />
+ <a class="el" href="namespace_saltr_1_1_unity_sdk_1_1_api_call.html">Saltr.UnitySdk.ApiCall</a> - classes related to SALTR api calls wihch are made after SaltrUnitySdk is running<br />
+ <a class="el" href="namespace_saltr_1_1_unity_sdk_1_1_domain.html">Saltr.UnitySdk.Domain</a> - contains Domain Model classes<br />
+ <a class="el" href="namespace_saltr_1_1_unity_sdk_1_1_domain_1_1_model_1_1_canvas.html">Saltr.UnitySdk.Domain.Model.Canvas</a> - classes related to canvas based games; <br />
+ <a class="el" href="namespace_saltr_1_1_unity_sdk_1_1_domain_1_1_model_1_1_matrix.html">Saltr.UnitySdk.Domain.Model.Matrix</a> - classes related to matrix based games; <br />
+ <a class="el" href="namespace_saltr_1_1_unity_sdk_1_1_network.html">Saltr.UnitySdk.Network</a> - network related classes (DownloadManager, etc..)<br />
+ <a class="el" href="namespace_saltr_1_1_unity_sdk_1_1_repository.html">Saltr.UnitySdk.Repository</a> - local data repository classes (implementation widely varies through platforms); <br />
+ <a class="el" href="namespace_saltr_1_1_unity_sdk_1_1_utils.html">Saltr.UnitySdk.Utils</a> - contains Domain Model classes<br />
+
  </p>
 </div></div><!-- contents -->
 </div><!-- doc-content -->
