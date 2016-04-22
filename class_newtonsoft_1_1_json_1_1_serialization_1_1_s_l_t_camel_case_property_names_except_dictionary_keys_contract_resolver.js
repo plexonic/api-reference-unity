@@ -1,4 +1,0 @@
-var class_newtonsoft_1_1_json_1_1_serialization_1_1_s_l_t_camel_case_property_names_except_dictionary_keys_contract_resolver =
-[
-    [ "CreateDictionaryContract", "class_newtonsoft_1_1_json_1_1_serialization_1_1_s_l_t_camel_case_property_names_except_dictionary_keys_contract_resolver.html#a6252a5df4632d7e38371e7e8797f47d5", null ]
-];

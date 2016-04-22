@@ -1,10 +1,10 @@
 var hierarchy =
 [
     [ "CamelCasePropertyNamesContractResolver", null, [
-      [ "Newtonsoft.Json.Serialization.SLTCamelCasePropertyNamesExceptDictionaryKeysContractResolver", "class_newtonsoft_1_1_json_1_1_serialization_1_1_s_l_t_camel_case_property_names_except_dictionary_keys_contract_resolver.html", null ]
+      [ "Saltr.Newtonsoft.Json.Serialization.SLTCamelCasePropertyNamesExceptDictionaryKeysContractResolver", "class_saltr_1_1_newtonsoft_1_1_json_1_1_serialization_1_1_s_l_t_camel_case_property_names_except9233c9f16db58fdbd57b4693239ab904.html", null ]
     ] ],
     [ "CustomCreationConverter< IDictionary< string, object >>", null, [
-      [ "Newtonsoft.Json.Converters.SLTNestedDictionaryConverter", "class_newtonsoft_1_1_json_1_1_converters_1_1_s_l_t_nested_dictionary_converter.html", null ]
+      [ "Saltr.Newtonsoft.Json.Converters.SLTNestedDictionaryConverter", "class_saltr_1_1_newtonsoft_1_1_json_1_1_converters_1_1_s_l_t_nested_dictionary_converter.html", null ]
     ] ],
     [ "Saltr.UnitySdk.SLTAsyncManager.DelayedQueueItem", "struct_saltr_1_1_unity_sdk_1_1_s_l_t_async_manager_1_1_delayed_queue_item.html", null ],
     [ "IDisposable", null, [
