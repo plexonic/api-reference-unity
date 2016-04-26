@@ -1,4 +1,0 @@
-var namespace_saltr_1_1_newtonsoft_1_1_json_1_1_serialization =
-[
-    [ "SLTCamelCasePropertyNamesExceptDictionaryKeysContractResolver", "class_saltr_1_1_newtonsoft_1_1_json_1_1_serialization_1_1_s_l_t_camel_case_property_names_except9233c9f16db58fdbd57b4693239ab904.html", "class_saltr_1_1_newtonsoft_1_1_json_1_1_serialization_1_1_s_l_t_camel_case_property_names_except9233c9f16db58fdbd57b4693239ab904" ]
-];

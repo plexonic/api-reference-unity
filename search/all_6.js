@@ -1,15 +1,15 @@
 var searchData=
 [
-  ['failed',['Failed',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a43441cba6f98cfe916a671a256eb71ac',1,'Saltr::UnitySdk::SLTConstants']]],
-  ['feature',['Feature',['../namespace_saltr_1_1_unity_sdk_1_1_domain.html#a5fb254a695a16fa6a4042ff929f65f39a21021ea0e52be8e9c599f4dff41e5be0',1,'Saltr::UnitySdk::Domain']]],
-  ['features',['Features',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_internal_model_1_1_s_l_t_zip_response.html#ac83b58aad915e89096e52a17977575a0',1,'Saltr.UnitySdk.Domain.InternalModel.SLTZipResponse.Features()'],['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_model_1_1_s_l_t_app_data.html#a8f594d79ac5eb7daa1d988a24e4b6c55',1,'Saltr.UnitySdk.Domain.Model.SLTAppData.Features()'],['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a82a2d0ca586907911afe2d28f9e70a0d',1,'Saltr.UnitySdk.SLTConstants.Features()']]],
-  ['featuresfolderpath',['FeaturesFolderPath',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a4c8f80863f5910db6558e43e964c1ed9',1,'Saltr::UnitySdk::SLTConstants']]],
-  ['featuretype',['FeatureType',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a3c764e7c82522c4662b332640ae9fdaf',1,'Saltr::UnitySdk::SLTConstants']]],
+  ['failed',['Failed',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#aec2586944da60f2d8e1e5c4902cd9834',1,'SaltrSDK::SLTConstants']]],
+  ['feature',['Feature',['../namespace_saltr_s_d_k_1_1_domain.html#ab00ea1ef4dc805fe09d7d6aa31557703a21021ea0e52be8e9c599f4dff41e5be0',1,'SaltrSDK::Domain']]],
+  ['features',['Features',['../class_saltr_s_d_k_1_1_domain_1_1_internal_model_1_1_s_l_t_zip_response.html#ac35d20f5ab3e3d588a9998cdc24ff7e1',1,'SaltrSDK.Domain.InternalModel.SLTZipResponse.Features()'],['../class_saltr_s_d_k_1_1_domain_1_1_model_1_1_s_l_t_app_data.html#a59697645b393db8169d1d184ee0f54d2',1,'SaltrSDK.Domain.Model.SLTAppData.Features()'],['../class_saltr_s_d_k_1_1_s_l_t_constants.html#aed46557798b7f4a469cc2c24bdd6a319',1,'SaltrSDK.SLTConstants.Features()']]],
+  ['featuresfolderpath',['FeaturesFolderPath',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#acea2590bfed8de9e67f8b4765acdd568',1,'SaltrSDK::SLTConstants']]],
+  ['featuretype',['FeatureType',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#a6e42e26289a25932ba9d32008600cd60',1,'SaltrSDK::SLTConstants']]],
   ['files',['files',['../_l_i_c_e_n_s_e_8txt.html#abdb4f4971cf029244bb81834ee9b393d',1,'LICENSE.txt']]],
-  ['first',['First',['../class_saltr_1_1_unity_sdk_1_1_utils_1_1_s_l_t_tuple.html#ab4158ae45a3cf97da79d481953a32909',1,'Saltr::UnitySdk::Utils::SLTTuple']]],
-  ['fixedassetrules',['FixedAssetRules',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_internal_model_1_1_matrix_1_1_s_l_t_matrix_board_layer.html#a2d8351ab91945ebc9eb8a87120945b09',1,'Saltr::UnitySdk::Domain::InternalModel::Matrix::SLTMatrixBoardLayer']]],
-  ['fixedupdate',['FixedUpdate',['../class_saltr_1_1_unity_sdk_1_1_network_1_1_s_l_t_download_manager.html#a4d5acb8f45900df28b99e5a3ecf4bd15',1,'Saltr::UnitySdk::Network::SLTDownloadManager']]],
-  ['form',['Form',['../class_saltr_1_1_unity_sdk_1_1_network_1_1_s_l_t_download_request.html#a79077228ba5ef2dc6152a2b5b6f2ae17',1,'Saltr::UnitySdk::Network::SLTDownloadRequest']]],
-  ['fraction',['Fraction',['../struct_saltr_1_1_unity_sdk_1_1_domain_1_1_model_1_1_matrix_1_1_temp_asset_fraction.html#a603422ae89a60b76e922891cc84a6962',1,'Saltr::UnitySdk::Domain::Model::Matrix::TempAssetFraction']]],
+  ['first',['First',['../class_saltr_s_d_k_1_1_utils_1_1_s_l_t_tuple.html#a36eb1a277d24bcfb15af10632a181f3a',1,'SaltrSDK::Utils::SLTTuple']]],
+  ['fixedassetrules',['FixedAssetRules',['../class_saltr_s_d_k_1_1_domain_1_1_internal_model_1_1_matrix_1_1_s_l_t_matrix_board_layer.html#a5ec3cb563952fdfd24f7a63b79bdd838',1,'SaltrSDK::Domain::InternalModel::Matrix::SLTMatrixBoardLayer']]],
+  ['fixedupdate',['FixedUpdate',['../class_saltr_s_d_k_1_1_network_1_1_s_l_t_download_manager.html#a3331e5594adb85a0d0a8cb0eb2f06c65',1,'SaltrSDK::Network::SLTDownloadManager']]],
+  ['form',['Form',['../class_saltr_s_d_k_1_1_network_1_1_s_l_t_download_request.html#aec63edeed9121b335be60054ffbf970f',1,'SaltrSDK::Network::SLTDownloadRequest']]],
+  ['fraction',['Fraction',['../struct_saltr_s_d_k_1_1_domain_1_1_model_1_1_matrix_1_1_temp_asset_fraction.html#a2e43c83e4a60cfd06d4724d082441469',1,'SaltrSDK::Domain::Model::Matrix::TempAssetFraction']]],
   ['from',['FROM',['../_l_i_c_e_n_s_e_8txt.html#ac44d0f7742875ad0d1fc3a6de1ee0f7d',1,'LICENSE.txt']]]
 ];

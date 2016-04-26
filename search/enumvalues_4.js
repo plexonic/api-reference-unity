@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['feature',['Feature',['../namespace_saltr_1_1_unity_sdk_1_1_domain.html#a5fb254a695a16fa6a4042ff929f65f39a21021ea0e52be8e9c599f4dff41e5be0',1,'Saltr::UnitySdk::Domain']]]
+  ['feature',['Feature',['../namespace_saltr_s_d_k_1_1_domain.html#ab00ea1ef4dc805fe09d7d6aa31557703a21021ea0e52be8e9c599f4dff41e5be0',1,'SaltrSDK::Domain']]]
 ];

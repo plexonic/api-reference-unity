@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['loadlevelconnectfail',['LoadLevelConnectFail',['../class_saltr_1_1_unity_sdk_1_1_saltr_connector.html#a591337fe51c6fd60ebc9033eae8efe96',1,'Saltr::UnitySdk::SaltrConnector']]],
-  ['loadlevelcontentsuccess',['LoadLevelContentSuccess',['../class_saltr_1_1_unity_sdk_1_1_saltr_connector.html#a28dd5f5628791947bb8fb60c6def6b01',1,'Saltr::UnitySdk::SaltrConnector']]],
-  ['loadmultiplelevelcontentssuccess',['LoadMultipleLevelContentsSuccess',['../class_saltr_1_1_unity_sdk_1_1_saltr_connector.html#a7b7b57c53fd212a50e24e75aae91ec0a',1,'Saltr::UnitySdk::SaltrConnector']]]
+  ['loadlevelconnectfail',['LoadLevelConnectFail',['../class_saltr_s_d_k_1_1_saltr_connector.html#a7d08bbcb7932ebf5affa2554211ff1c6',1,'SaltrSDK::SaltrConnector']]],
+  ['loadlevelcontentsuccess',['LoadLevelContentSuccess',['../class_saltr_s_d_k_1_1_saltr_connector.html#a16ad83e0e2d04df427844da1ab8499c8',1,'SaltrSDK::SaltrConnector']]],
+  ['loadmultiplelevelcontentssuccess',['LoadMultipleLevelContentsSuccess',['../class_saltr_s_d_k_1_1_saltr_connector.html#a87dab296e2e01deb0e51c13fcb6ecdb4',1,'SaltrSDK::SaltrConnector']]]
 ];

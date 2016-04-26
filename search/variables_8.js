@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['httpmethodget',['HttpMethodGet',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a842d09fdfac6df068ce6b96e82c0d758',1,'Saltr::UnitySdk::SLTConstants']]],
-  ['httpmethodpost',['HttpMethodPost',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#ae065e047157a55f873440139476b6618',1,'Saltr::UnitySdk::SLTConstants']]]
+  ['httpmethodget',['HttpMethodGet',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#afcdda1d6d82fc9a4ab82cc4082cd3d16',1,'SaltrSDK::SLTConstants']]],
+  ['httpmethodpost',['HttpMethodPost',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#ad4962a92d4dfadff2fcad57613c1d86e',1,'SaltrSDK::SLTConstants']]]
 ];

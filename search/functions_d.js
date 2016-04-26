@@ -1,11 +1,11 @@
 var searchData=
 [
-  ['readjson',['ReadJson',['../class_saltr_1_1_newtonsoft_1_1_json_1_1_converters_1_1_s_l_t_nested_dictionary_converter.html#a590066709a5a192756358593c00a8454',1,'Saltr::Newtonsoft::Json::Converters::SLTNestedDictionaryConverter']]],
-  ['regenerateboard',['RegenerateBoard',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_model_1_1_s_l_t_level.html#ac2a450761305f3092391803ee288cc48',1,'Saltr::UnitySdk::Domain::Model::SLTLevel']]],
-  ['regenerateboards',['RegenerateBoards',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_model_1_1_s_l_t_level.html#a6cdc747c7b6e72f93ccfe8383680de36',1,'Saltr::UnitySdk::Domain::Model::SLTLevel']]],
-  ['removeasset',['RemoveAsset',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_model_1_1_matrix_1_1_s_l_t_cell.html#a102fa2360b26bc7ed7db10b36dd8f355',1,'Saltr::UnitySdk::Domain::Model::Matrix::SLTCell']]],
-  ['rotatefield',['RotateField',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_model_1_1_matrix_1_1_matcher_1_1_s_l_t_match_pattern.html#a305d6d1c3fdb43e173d48256d722ab35',1,'Saltr::UnitySdk::Domain::Model::Matrix::Matcher::SLTMatchPattern']]],
-  ['rotateright',['RotateRight',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_model_1_1_matrix_1_1_matcher_1_1_s_l_t_match_pattern.html#a8c0dfded6b8402ca69dd354ca2fc082a',1,'Saltr::UnitySdk::Domain::Model::Matrix::Matcher::SLTMatchPattern']]],
-  ['runaction',['RunAction',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_async_manager.html#a32e5a6b391f29563f43e1975a208d146',1,'Saltr::UnitySdk::SLTAsyncManager']]],
-  ['runasync',['RunAsync',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_async_manager.html#ae308854bc56df1667a588c646155d2cb',1,'Saltr::UnitySdk::SLTAsyncManager']]]
+  ['readjson',['ReadJson',['../class_saltr_s_d_k_1_1_utils_1_1_json_1_1_s_l_t_nested_dictionary_converter.html#a620233ffadec94de04a339f93a525cde',1,'SaltrSDK::Utils::Json::SLTNestedDictionaryConverter']]],
+  ['regenerateboard',['RegenerateBoard',['../class_saltr_s_d_k_1_1_domain_1_1_model_1_1_s_l_t_level.html#a542e56d2c677c42e0eb8ee4615157d75',1,'SaltrSDK::Domain::Model::SLTLevel']]],
+  ['regenerateboards',['RegenerateBoards',['../class_saltr_s_d_k_1_1_domain_1_1_model_1_1_s_l_t_level.html#a7381ae95bca5613d250d40c2e7c66305',1,'SaltrSDK::Domain::Model::SLTLevel']]],
+  ['removeasset',['RemoveAsset',['../class_saltr_s_d_k_1_1_domain_1_1_model_1_1_matrix_1_1_s_l_t_cell.html#ac74bdd1d2ccfcb7a61d81c1455b36a21',1,'SaltrSDK::Domain::Model::Matrix::SLTCell']]],
+  ['rotatefield',['RotateField',['../class_saltr_s_d_k_1_1_domain_1_1_model_1_1_matrix_1_1_matcher_1_1_s_l_t_match_pattern.html#ad6172ee5d2ca120dc6935802da68f3b1',1,'SaltrSDK::Domain::Model::Matrix::Matcher::SLTMatchPattern']]],
+  ['rotateright',['RotateRight',['../class_saltr_s_d_k_1_1_domain_1_1_model_1_1_matrix_1_1_matcher_1_1_s_l_t_match_pattern.html#a8c05a5c689ba1a11f47f392afc01542a',1,'SaltrSDK::Domain::Model::Matrix::Matcher::SLTMatchPattern']]],
+  ['runaction',['RunAction',['../class_saltr_s_d_k_1_1_s_l_t_async_manager.html#a27bca7630f3f7606246301737c4d8629',1,'SaltrSDK::SLTAsyncManager']]],
+  ['runasync',['RunAsync',['../class_saltr_s_d_k_1_1_s_l_t_async_manager.html#ac568b820835510c3478712dcd690293c',1,'SaltrSDK::SLTAsyncManager']]]
 ];

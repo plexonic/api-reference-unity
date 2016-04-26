@@ -1,11 +1,11 @@
 var searchData=
 [
-  ['sltboardtype',['SLTBoardType',['../namespace_saltr_1_1_unity_sdk_1_1_domain_1_1_internal_model.html#a9d1e2e22ca85f85bc1af219b3f3266cd',1,'Saltr::UnitySdk::Domain::InternalModel']]],
-  ['sltdownloadresulttype',['SLTDownloadResultType',['../namespace_saltr_1_1_unity_sdk_1_1_network.html#a2c704b820eda35fb6d98d945f889bbb1',1,'Saltr::UnitySdk::Network']]],
-  ['slterrorstatuscode',['SLTErrorStatusCode',['../namespace_saltr_1_1_unity_sdk_1_1_domain.html#ab04607330bdca1d900d7d2871deeeb42',1,'Saltr::UnitySdk::Domain']]],
-  ['sltexperimenttype',['SLTExperimentType',['../namespace_saltr_1_1_unity_sdk_1_1_domain.html#a5fb254a695a16fa6a4042ff929f65f39',1,'Saltr::UnitySdk::Domain']]],
-  ['sltfeaturetype',['SLTFeatureType',['../namespace_saltr_1_1_unity_sdk_1_1_domain.html#a7d97e7f7f3284eded5d395bbd6dd63af',1,'Saltr::UnitySdk::Domain']]],
-  ['sltmatchpatternfield',['SLTMatchPatternField',['../namespace_saltr_1_1_unity_sdk_1_1_domain_1_1_model_1_1_matrix_1_1_matcher.html#a154b1a763c03fdcd105433541db251f1',1,'Saltr::UnitySdk::Domain::Model::Matrix::Matcher']]],
-  ['sltmatchpatterntype',['SLTMatchPatternType',['../namespace_saltr_1_1_unity_sdk_1_1_domain_1_1_model_1_1_matrix_1_1_matcher.html#a724991511140ebdfc1dbe973208b8e21',1,'Saltr::UnitySdk::Domain::Model::Matrix::Matcher']]],
-  ['sltmatrixboardorientation',['SLTMatrixBoardOrientation',['../namespace_saltr_1_1_unity_sdk_1_1_domain_1_1_internal_model_1_1_matrix.html#a3a381b0899f3bb2bf1adece22340f314',1,'Saltr::UnitySdk::Domain::InternalModel::Matrix']]]
+  ['sltboardtype',['SLTBoardType',['../namespace_saltr_s_d_k_1_1_domain_1_1_internal_model.html#a37796f95deda0f4d0f3c177c73ad9912',1,'SaltrSDK::Domain::InternalModel']]],
+  ['sltdownloadresulttype',['SLTDownloadResultType',['../namespace_saltr_s_d_k_1_1_network.html#a2b4c1217329401f75012c9f6e8cbdda8',1,'SaltrSDK::Network']]],
+  ['slterrorstatuscode',['SLTErrorStatusCode',['../namespace_saltr_s_d_k_1_1_domain.html#ad19a74d8aa1840b08899a5da8e29f625',1,'SaltrSDK::Domain']]],
+  ['sltexperimenttype',['SLTExperimentType',['../namespace_saltr_s_d_k_1_1_domain.html#ab00ea1ef4dc805fe09d7d6aa31557703',1,'SaltrSDK::Domain']]],
+  ['sltfeaturetype',['SLTFeatureType',['../namespace_saltr_s_d_k_1_1_domain.html#a191575a40c45486df73ee38f8ddedcac',1,'SaltrSDK::Domain']]],
+  ['sltmatchpatternfield',['SLTMatchPatternField',['../namespace_saltr_s_d_k_1_1_domain_1_1_model_1_1_matrix_1_1_matcher.html#a0830c7de512f7ff1ab83e0f7b0c42514',1,'SaltrSDK::Domain::Model::Matrix::Matcher']]],
+  ['sltmatchpatterntype',['SLTMatchPatternType',['../namespace_saltr_s_d_k_1_1_domain_1_1_model_1_1_matrix_1_1_matcher.html#a165beb0840021d0bee94f667bf789bfb',1,'SaltrSDK::Domain::Model::Matrix::Matcher']]],
+  ['sltmatrixboardorientation',['SLTMatrixBoardOrientation',['../namespace_saltr_s_d_k_1_1_domain_1_1_internal_model_1_1_matrix.html#abfe43d9f2a1d6c692316c223546fe251',1,'SaltrSDK::Domain::InternalModel::Matrix']]]
 ];

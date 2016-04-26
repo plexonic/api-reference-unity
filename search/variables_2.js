@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['basicproperties',['BasicProperties',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a20d2372c7a24fbc9b36cf02a51108759',1,'Saltr::UnitySdk::SLTConstants']]],
-  ['blockedcells',['BlockedCells',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a87201d04d1a46998dcc6ffd7a4498fdd',1,'Saltr::UnitySdk::SLTConstants']]],
-  ['boards',['Boards',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#afa95e64b57e4b0eded2296f8b48b7ded',1,'Saltr::UnitySdk::SLTConstants']]],
-  ['browsername',['BrowserName',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#ab7d68fb3b3ec5649938b28d937316a3a',1,'Saltr::UnitySdk::SLTConstants']]],
-  ['browserversion',['BrowserVersion',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#aa8f68da3082cbad3c9d74a3513ef519b',1,'Saltr::UnitySdk::SLTConstants']]]
+  ['basicproperties',['BasicProperties',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#af416db0b8464cc842c39f79761037c1b',1,'SaltrSDK::SLTConstants']]],
+  ['blockedcells',['BlockedCells',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#a0ebca01c56438761e8fbacdf8a3a3456',1,'SaltrSDK::SLTConstants']]],
+  ['boards',['Boards',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#a979dacbf7f4b7bd4c5739710ba23f2f0',1,'SaltrSDK::SLTConstants']]],
+  ['browsername',['BrowserName',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#a600c5a49e2bc511d7fb75ad19bac8604',1,'SaltrSDK::SLTConstants']]],
+  ['browserversion',['BrowserVersion',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#a2b2dd5999470ee07dfcac91d9aa58600',1,'SaltrSDK::SLTConstants']]]
 ];

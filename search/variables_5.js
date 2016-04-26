@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['email',['Email',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a1bea039d504bb7f242fdc8fea428de7e',1,'Saltr::UnitySdk::SLTConstants']]],
-  ['emailisrequired',['EmailIsRequired',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_exception_constants.html#a63a121d32ee3cc6862e8e038388258ed',1,'Saltr::UnitySdk::SLTExceptionConstants']]],
-  ['error',['Error',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#ae413410ca3c78aa5e6627a4e987aeadf',1,'Saltr::UnitySdk::SLTConstants']]],
-  ['errorcode',['ErrorCode',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a215414f85ac55f02b5f3362362132201',1,'Saltr::UnitySdk::SLTConstants']]],
-  ['errormessage',['ErrorMessage',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#ae879239733ab728c5d233f0b3bfad5c1',1,'Saltr::UnitySdk::SLTConstants']]],
-  ['experiments',['Experiments',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#adcccda456c444152bf8d4de71dcb6ee9',1,'Saltr::UnitySdk::SLTConstants']]]
+  ['email',['Email',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#a8f0deba8de9d03101eaf02239cf1cfae',1,'SaltrSDK::SLTConstants']]],
+  ['emailisrequired',['EmailIsRequired',['../class_saltr_s_d_k_1_1_s_l_t_exception_constants.html#ad72b58841d2ac928843ab7e9201a256d',1,'SaltrSDK::SLTExceptionConstants']]],
+  ['error',['Error',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#a65245ec2468dcdd6a0f562bf1bff759f',1,'SaltrSDK::SLTConstants']]],
+  ['errorcode',['ErrorCode',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#a1e9fe034503e0103a7c101f61ac8bb27',1,'SaltrSDK::SLTConstants']]],
+  ['errormessage',['ErrorMessage',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#a26dd8c6f40234eb48cf1bc7312666d0f',1,'SaltrSDK::SLTConstants']]],
+  ['experiments',['Experiments',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#a108933de861904a0f52a97962bd34711',1,'SaltrSDK::SLTConstants']]]
 ];

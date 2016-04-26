@@ -1,4 +1,4 @@
 var annotated_dup =
 [
-    [ "Saltr", "namespace_saltr.html", "namespace_saltr" ]
+    [ "SaltrSDK", "namespace_saltr_s_d_k.html", "namespace_saltr_s_d_k" ]
 ];

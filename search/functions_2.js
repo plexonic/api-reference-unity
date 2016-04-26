@@ -1,10 +1,10 @@
 var searchData=
 [
-  ['definedefaultfeature',['DefineDefaultFeature',['../class_saltr_1_1_unity_sdk_1_1_saltr_connector.html#aee99c98561c1a18e0f3c3f703ce7795f',1,'Saltr::UnitySdk::SaltrConnector']]],
-  ['definedefaultfeatures',['DefineDefaultFeatures',['../class_saltr_1_1_unity_sdk_1_1_saltr_unity.html#a8290b385096f9f74971417f6ab51ecdc',1,'Saltr::UnitySdk::SaltrUnity']]],
-  ['deserialize',['Deserialize',['../class_saltr_1_1_unity_sdk_1_1_domain_1_1_internal_model_1_1_s_l_t_internal_level_content.html#a6140d0bc7fb8a215b20fa52dc6bd8208',1,'Saltr::UnitySdk::Domain::InternalModel::SLTInternalLevelContent']]],
-  ['destroy',['Destroy',['../class_saltr_1_1_unity_sdk_1_1_network_1_1_s_l_t_download_manager.html#aef9dcb5191e1165c30d0ba1bcf4df3f0',1,'Saltr::UnitySdk::Network::SLTDownloadManager']]],
-  ['dispose',['Dispose',['../class_saltr_1_1_unity_sdk_1_1_network_1_1_s_l_t_download_manager.html#adf8a3cae181b627dbeb356a2b979d6db',1,'Saltr::UnitySdk::Network::SLTDownloadManager']]],
-  ['downloadonerequest',['DownloadOneRequest',['../class_saltr_1_1_unity_sdk_1_1_network_1_1_s_l_t_download_manager.html#a11a74cd867f08c9100adba9d73def5a6',1,'Saltr::UnitySdk::Network::SLTDownloadManager']]],
-  ['downloadqueue',['DownloadQueue',['../class_saltr_1_1_unity_sdk_1_1_network_1_1_s_l_t_download_manager.html#a69928c3e4a1d904c152a2e9e70d2cac0',1,'Saltr::UnitySdk::Network::SLTDownloadManager']]]
+  ['definedefaultfeature',['DefineDefaultFeature',['../class_saltr_s_d_k_1_1_saltr_connector.html#a4811d3291b84ea52b38f776686bdd316',1,'SaltrSDK::SaltrConnector']]],
+  ['definedefaultfeatures',['DefineDefaultFeatures',['../class_saltr_s_d_k_1_1_saltr_unity.html#a0857b1e8f03e88233aa0c79b760e0ee4',1,'SaltrSDK::SaltrUnity']]],
+  ['deserialize',['Deserialize',['../class_saltr_s_d_k_1_1_domain_1_1_internal_model_1_1_s_l_t_internal_level_content.html#ac1f073ce9ca26f7e78cc6ac9247500a8',1,'SaltrSDK::Domain::InternalModel::SLTInternalLevelContent']]],
+  ['destroy',['Destroy',['../class_saltr_s_d_k_1_1_network_1_1_s_l_t_download_manager.html#a83a7b9d1f91afc6fec4dee09d1270a86',1,'SaltrSDK::Network::SLTDownloadManager']]],
+  ['dispose',['Dispose',['../class_saltr_s_d_k_1_1_network_1_1_s_l_t_download_manager.html#a467c78858dc1c45d790195b3949aca58',1,'SaltrSDK::Network::SLTDownloadManager']]],
+  ['downloadonerequest',['DownloadOneRequest',['../class_saltr_s_d_k_1_1_network_1_1_s_l_t_download_manager.html#a1dfc58e4dc1b2e0b1e1303ea0c9d32af',1,'SaltrSDK::Network::SLTDownloadManager']]],
+  ['downloadqueue',['DownloadQueue',['../class_saltr_s_d_k_1_1_network_1_1_s_l_t_download_manager.html#aeaa1b21d63b7d87d3e3dafcdd4f66954',1,'SaltrSDK::Network::SLTDownloadManager']]]
 ];

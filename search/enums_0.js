@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['apicallmethod',['ApiCallMethod',['../namespace_saltr_1_1_unity_sdk_1_1_api_call.html#a7b2838520c32045538150f9c937ae6b1',1,'Saltr::UnitySdk::ApiCall']]]
+  ['apicallmethod',['ApiCallMethod',['../namespace_saltr_s_d_k_1_1_api_call.html#a1e00cf901a774dd645f471eb2460c14a',1,'SaltrSDK::ApiCall']]]
 ];

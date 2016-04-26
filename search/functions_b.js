@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['ping',['Ping',['../class_saltr_1_1_unity_sdk_1_1_saltr_unity.html#aa8f808f4975177336664e38cbecfabe4',1,'Saltr::UnitySdk::SaltrUnity']]]
+  ['ping',['Ping',['../class_saltr_s_d_k_1_1_saltr_unity.html#ad7ae2947e84013c49311ef4278d1f873',1,'SaltrSDK::SaltrUnity']]]
 ];

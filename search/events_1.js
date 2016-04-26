@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['getappdatafail',['GetAppDataFail',['../class_saltr_1_1_unity_sdk_1_1_saltr_connector.html#a778218665023183b6c60caa79c0ea436',1,'Saltr::UnitySdk::SaltrConnector']]],
-  ['getappdatasuccess',['GetAppDataSuccess',['../class_saltr_1_1_unity_sdk_1_1_saltr_connector.html#a4d03d7be44f82a98dad2238e4f674d56',1,'Saltr::UnitySdk::SaltrConnector']]]
+  ['getappdatafail',['GetAppDataFail',['../class_saltr_s_d_k_1_1_saltr_connector.html#a01f3d8735f1f5cb75b9ad77f7997f4d7',1,'SaltrSDK::SaltrConnector']]],
+  ['getappdatasuccess',['GetAppDataSuccess',['../class_saltr_s_d_k_1_1_saltr_connector.html#ae43ca2cf5051e7ca110a0f7853a789b9',1,'SaltrSDK::SaltrConnector']]]
 ];

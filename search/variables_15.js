@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['x',['X',['../class_saltr_1_1_unity_sdk_1_1_s_l_t_constants.html#a20992790b3fcedf63c8a78885d3d951a',1,'Saltr::UnitySdk::SLTConstants']]]
+  ['x',['X',['../class_saltr_s_d_k_1_1_s_l_t_constants.html#a75cb2f89fc1ba7dcad07bb6e0feb8dbe',1,'SaltrSDK::SLTConstants']]]
 ];
